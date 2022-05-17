@@ -1,0 +1,3 @@
+-  Hi, I’m svobodajunior
+-  I’m interested in Modding/game development
+-  I’m currently learning Java
